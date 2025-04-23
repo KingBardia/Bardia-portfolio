@@ -1,4 +1,20 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bardia Koopah'
 theme = 'academimal'
+
+[menu]
+  [[menu.main]]
+    name = "Personal"
+    url = "/personal/"
+  [[menu.sidebar]]
+    name = "Projects"
+    url = "/projects/"
+  [[menu.sidebar]]
+    name = "Publications"
+    url = "/publications/"
+
+[params]
+  logo = "bardia-pfp.png"
+    
+
