@@ -3,6 +3,6 @@ title = "Projects"
 weight = 1
 +++
 
-## Projects
+# Projects
 
 Coming soon...

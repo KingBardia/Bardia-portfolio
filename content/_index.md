@@ -2,8 +2,7 @@
 draft: false
 ---
 # About Me
-This is my website
-
+Congrats! You found the Easter Egg 🐰🥚. Now head back to Personal for the good stuff😏
 
 
 
