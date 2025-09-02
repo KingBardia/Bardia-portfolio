@@ -16,5 +16,10 @@ theme = 'academimal'
 
 [params]
   logo = "bardia-pfp.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
     
 
