@@ -1,6 +1,7 @@
 +++
 title = "Personal"
 weight = 1
+draft = false
 +++
 
 
