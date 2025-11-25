@@ -2,6 +2,8 @@ baseURL = 'https://www.bardiak.com/'
 languageCode = 'en-us'
 title = 'Bardia Koopah'
 theme = 'academimal'
+publishDir = "."
+
 
 [menu]
   [[menu.main]]
