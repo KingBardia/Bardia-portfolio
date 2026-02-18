@@ -7,5 +7,26 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://www.bardiak.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>https://www.bardiak.com/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.bardiak.com/personal/</guid>
+      <description>&lt;h1 id=&#34;personal&#34;&gt;Personal&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a &lt;span style=&#34;color:#FDB515 !important; font-weight:bold;&#34;&gt;UC&lt;/span&gt;&lt;span style=&#34;color:#003262 !important; font-weight:bold;&#34;&gt; Berkeley&lt;/span&gt; student studying CS. I&amp;rsquo;m currently doing Agentic AI research with Professors &lt;a href=&#34;https://people.eecs.berkeley.edu/~jegonzal/&#34;&gt;Joey Gonzalez&lt;/a&gt; and &lt;a href=&#34;https://people.eecs.berkeley.edu/~alexdimakis/&#34;&gt;Alex Dimakis&lt;/a&gt; at &lt;a href=&#34;https://sky.cs.berkeley.edu/&#34; target=&#34;_blank&#34;&gt;&#xA;&lt;span style=&#34;color:#FDB515 !important; font-weight:bold;&#34;&gt;Sky&lt;/span&gt;&lt;span style=&#34;color:#003262 !important; font-weight:bold;&#34;&gt;Lab&lt;/span&gt;&#xA;&lt;/a&gt;, mainly analyzing tool use within agents. My interests broadly span most things ML, primarily LLM&amp;rsquo;s and Optimization, whether they are used for finance, robotics, vision applications, etc.&lt;/p&gt;&#xA;&lt;p&gt;For an overview of my past and present work experiences, check out my LinkedIn (which I try and keep up-to-date), available on the sidebar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://www.bardiak.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.bardiak.com/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;Projects&lt;/h1&gt;&#xA;&lt;div class=&#34;projects-grid&#34;&gt;&#xA;  &lt;!-- Transformer from Scratch --&gt;&#xA;  &lt;div class=&#34;project-card&#34;&gt;&#xA;    &lt;h2&gt;Transformer from Scratch&lt;/h2&gt;&#xA;    &lt;p class=&#34;project-subtitle&#34;&gt;PyTorch • Multi30k • Full encoder–decoder architecture&lt;/p&gt;&#xA;    &lt;p class=&#34;project-description&#34;&gt;&#xA;      Implemented a full Transformer model from scratch in PyTorch, including&#xA;      multi-head attention, positional encodings, custom tokenizers, and a training&#xA;      loop on the Multi30k dataset. Focused on reproducing “Attention is All You Need”&#xA;      details and understanding every component end-to-end.&#xA;    &lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;[Transformer Project Github Link](https://github.com/BardiaKoopah/my-transformer-from-scratch)&#xA;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/aVSwxn7r2p8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;        &lt;/div&gt;&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;!-- GPT-2 From Scratch --&gt;&#xA;  &lt;div class=&#34;project-card&#34;&gt;&#xA;    &lt;h2&gt;GPT-2 From Scratch&lt;/h2&gt;&#xA;    &lt;p class=&#34;project-subtitle&#34;&gt;Decoder-only Transformer • Byte-level BPE • Full training pipeline reproduction&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>https://www.bardiak.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.bardiak.com/publications/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;p&gt;Currently working on two papers:&lt;/p&gt;&#xA;&lt;p&gt;Co-author of &lt;a href=&#34;https://arxiv.org/pdf/2601.11868&#34;&gt;&lt;strong&gt;Terminal Bench Report&lt;/strong&gt;&lt;/a&gt; paper through the &lt;a href=&#34;https://www.laude.org/&#34;&gt;&lt;strong&gt;Laude Institute&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Co-author of Active Tools paper through Berkeley SkyLab.&lt;/p&gt;&#xA;&lt;p&gt;Will update with direct links soon&amp;hellip;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
